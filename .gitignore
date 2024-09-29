@@ -1,0 +1,10 @@
+dataset/MNIST/raw/t10k-images-idx3-ubyte
+dataset/MNIST/raw/t10k-images-idx3-ubyte.gz
+dataset/MNIST/raw/t10k-labels-idx1-ubyte
+dataset/MNIST/raw/t10k-labels-idx1-ubyte.gz
+dataset/MNIST/raw/train-images-idx3-ubyte
+dataset/MNIST/raw/train-images-idx3-ubyte.gz
+dataset/MNIST/raw/train-labels-idx1-ubyte
+dataset/MNIST/raw/train-labels-idx1-ubyte.gz
+logs/real/events.out.tfevents.1727556963.DESKTOP-TTLF1VH.17572.1
+logs/fake/events.out.tfevents.1727556963.DESKTOP-TTLF1VH.17572.0
